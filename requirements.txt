@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai
+tiktoken
+faiss-cpu
+huggingface-hub
+chromadb
+beautifulsoup4
